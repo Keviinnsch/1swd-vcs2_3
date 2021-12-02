@@ -1,5 +1,3 @@
-melk
-kip
 chips
 cola
 water
@@ -8,4 +6,3 @@ honing
 chocopasta
 pindakaas
 pepernoten
-wcpapier
