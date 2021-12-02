@@ -7,3 +7,5 @@ ontbijtkoek
 honing
 chocopasta
 pindakaas
+pepernoten
+wcpapier
