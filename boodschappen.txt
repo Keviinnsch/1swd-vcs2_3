@@ -6,3 +6,8 @@ honing
 chocopasta
 pindakaas
 pepernoten
+wcpapier
+kalkoen
+pesto
+champagne
+tiramisu
